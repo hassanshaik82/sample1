@@ -1,6 +1,6 @@
 {
-    "name": "sample1",
-    "short_name": "sample1",
+    "name": "tutorial",
+    "short_name": "tutorial",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
