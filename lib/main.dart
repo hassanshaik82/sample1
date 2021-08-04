@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tutorial/home_page/home_page_widget.dart';
 import 'flutter_flow/flutter_flow_theme.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 
 void main() {
   runApp(MyApp());
